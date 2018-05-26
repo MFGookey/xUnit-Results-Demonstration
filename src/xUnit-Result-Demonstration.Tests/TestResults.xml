@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a comment to ensure that the original file is longer than the new file -->
+<assemblies timestamp="05/25/2018 16:18:41">
+  <assembly name="C:\Dev\Personal Git\xUnit-Results-Demonstration\src\xUnit-Result-Demonstration.Tests\bin\Release\net452\xUnit-Result-Demonstration.Tests.DLL" environment="64-bit .NET 4.0.30319.42000 [collection-per-class, parallel (8 threads)]" test-framework="xUnit.net 2.3.1.3858" run-date="2018-05-25" run-time="16:18:39" config-file="C:\Users\tmcg\.nuget\packages\dotnet-xunit\2.3.0\tools\net452\xunit.console.exe.Config" total="1" passed="1" failed="0" skipped="0" time="1.466" errors="0">
+    <errors />
+    <collection total="1" passed="1" failed="0" skipped="0" name="Test collection for xUnit_Result_Demonstration.Tests.DemonstrationTests" time="1.066">
+      <test name="xUnit_Result_Demonstration.Tests.DemonstrationTests.TrivialTest" type="xUnit_Result_Demonstration.Tests.DemonstrationTests" method="TrivialTest" time="1.0660365" result="Pass" />
+    </collection>
+  </assembly>
+</assemblies>
